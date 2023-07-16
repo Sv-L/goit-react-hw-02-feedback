@@ -10,6 +10,7 @@
   border-radius: 10%;
   background-color: #f7c815;
   color: #583e26;
+  box-shadow: 0 8px 26px rgba(0, 0, 0, 0.4), 0 28px 30px rgba(0, 0, 0, 0.3);
 }
 .statistics-text {
   display: flex;
@@ -25,6 +26,7 @@
 }
 .statistics-positive span {
   font-weight: bold;
+  text-shadow: 0 8px 26px rgba(0, 0, 0, 0.4), 0 28px 30px rgba(0, 0, 0, 0.3);
 }
 
 @keyframes animation-scale {
